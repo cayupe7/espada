@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Experiencia Consciente de Espada</title>
+<style>
+*{box-sizing:border-box} body{margin:0;background:#0b0708;color:#fff;font-family:Georgia,serif;text-align:center}
+.hero{background:radial-gradient(circle at 50% 38%, #7a2b45 0%, #2b0f1c 38%, #0b0708 72%);padding:34px 18px 10px}
+.hero img{width:min(420px,88vw);filter:drop-shadow(0 18px 30px rgba(212,175,55,.35))}
+h1{font-weight:400;letter-spacing:.08em;font-size:clamp(28px,6vw,52px);margin:18px 0 6px}
+.gold{color:#d4af37;letter-spacing:.28em;font-size:clamp(12px,2.6vw,17px);line-height:1.8}
+.handle{color:#e8c8d0;margin:14px 0 22px}
+.video-wrap{max-width:860px;margin:10px auto 22px;padding:0 16px}
+.video-wrap iframe{width:100%;aspect-ratio:16/9;border:1px solid rgba(212,175,55,.45);border-radius:18px;display:block;background:#000}
+.quote{font-style:italic;color:#f2d9df;font-size:clamp(17px,3.4vw,24px);padding:0 18px}
+.meta{color:#d4af37;letter-spacing:.12em;padding:12px 18px 20px}
+.btn{display:inline-block;background:#d4af37;color:#14090d;text-decoration:none;font-family:Arial,sans-serif;font-weight:800;letter-spacing:.14em;padding:16px 34px;border-radius:999px;margin:6px 0 34px}
+</style></head><body>
+<div class="hero"><img src="karla.png" alt="Karla Cañas con espada"></div>
+<h1>EXPERIENCIA CONSCIENTE DE ESPADA</h1>
+<div class="gold">MOVIMIENTO CONSCIENTE CON ESPADA<br>· PARA MUJERES ·</div>
+<div class="handle">@karli.canas</div>
+<div class="video-wrap">
+<iframe src="https://www.youtube-nocookie.com/embed/SILZd4d36ao?rel=0" title="Experiencia Consciente de Espada" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div class="quote">“Suelta lo que te pesa. Corta lo que te detiene.”</div>
+<div class="meta">90 MINUTOS • SIN EXPERIENCIA PREVIA • MOVIMIENTO + RESPIRACIÓN + PRESENCIA</div>
+<a class="btn" href="https://wa.me/56997469742">💬 CONTACTO</a>
+</body></html>
